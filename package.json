@@ -1,0 +1,21 @@
+{
+  "name": "@kanas/eslint-config-kanas",
+  "version": "1.0.0",
+  "description": "ESLint config for Kanas",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowball1990/eslint-config-kanas.git"
+  },
+  "author": "snowball1990 <snowballer0705@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-vue",
+    "eslint-config"
+  ],
+  "bugs": {
+    "url": "https://github.com/snowball1990/eslint-config-kanas/issues"
+  },
+  "homepage": "https://github.com/snowball1990/eslint-config-kanas#readme"
+}
