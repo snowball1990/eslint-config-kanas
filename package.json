@@ -1,6 +1,6 @@
 {
   "name": "@kanas/eslint-config-kanas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint config for Kanas",
   "main": "index.js",
   "repository": {
