@@ -7,6 +7,8 @@ module.exports = {
     sourceType: "module",
     parser: "babel-eslint"
   },
+  plugins: ["vue"],
+  extends: ["plugin:vue/base"],
   env: {
     browser: true
   },

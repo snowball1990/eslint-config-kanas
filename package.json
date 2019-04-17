@@ -9,6 +9,9 @@
   },
   "author": "snowball1990 <snowballer0705@gmail.com>",
   "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 5"
+  },
   "keywords": [
     "eslint",
     "eslint-vue",
@@ -17,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/snowball1990/eslint-config-kanas/issues"
   },
-  "homepage": "https://github.com/snowball1990/eslint-config-kanas#readme"
+  "homepage": "https://github.com/snowball1990/eslint-config-kanas#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.2",
+    "eslint-plugin-vue": "^5.2.2"
+  }
 }
