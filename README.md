@@ -27,4 +27,4 @@ module.exports = {
 
 ## Further Reading
 
-- [StyleLint Configs](https://github.com/stylelint/stylelint/blob/master/docs/user-guide/configuration.md)
+- [ESLint Shareable Configs](https://github.com/eslint/eslint/blob/master/docs/developer-guide/shareable-configs.md)
