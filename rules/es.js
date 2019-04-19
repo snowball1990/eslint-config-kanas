@@ -17,6 +17,12 @@ module.exports = {
   "object-shorthand": 2,
   // https://eslint.org/docs/rules/no-useless-rename
   "no-useless-rename": 1,
+  // https://eslint.org/docs/rules/prefer-destructuring
+  "prefer-destructuring": 2,
+  // https://eslint.org/docs/rules/prefer-spread
+  "prefer-spread": 2,
+  // https://eslint.org/docs/rules/prefer-template
+  "prefer-template": 2,
   // https://eslint.org/docs/rules/no-duplicate-imports#disallow-duplicate-imports-no-duplicate-imports
   "no-duplicate-imports": 2,
   // https://eslint.org/docs/rules/no-var#require-let-or-const-instead-of-var-no-var
@@ -28,7 +34,7 @@ module.exports = {
   // https://eslint.org/docs/rules/multiline-comment-style#enforce-a-particular-style-for-multiline-comments-multiline-comment-style
   "multiline-comment-style": 1,
   // https://eslint.org/docs/rules/camelcase#require-camelcase-camelcase
-  camelcase: [
+  "camelcase": [
     1,
     {
       properties: "always"
@@ -55,3 +61,4 @@ module.exports = {
   // https://eslint.org/docs/rules/no-lonely-if
   "no-lonely-if": 1
 };
+
